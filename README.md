@@ -1,4 +1,4 @@
-# Math-Expression-Evaluator-
+# Math-Expression-Evaluator
 This program uses stacks to evaluate an arithmetic expression in infix notation without converting it into postfix notation. 
 The program takes as input a numeric expression in infix notation, such as 3+4*2, and outputs the result.  
 - Operators are +, -, *, / 
